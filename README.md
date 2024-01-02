@@ -2,10 +2,8 @@
 First Node.js + Express project using the fs module to save data.
 
 
-1. Clone the repository
-```sh
-git clone https://github.com/matias-llanquiman/React-todo-list.git
-```
+1. Clone this repository
+
 2. Install all dependencies
 ```sh
 npm install

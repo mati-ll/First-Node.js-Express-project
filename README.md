@@ -12,3 +12,11 @@ npm install
 ```sh
 npm run dev
 ```
+4. Enter the URL for the localhost server
+```sh
+  http://localhost:3000/
+```
+5. Navigate through the routes specified in noteRoute.js, for example:
+```sh
+  http://localhost:3000/notes/getNote?id=1
+```   
